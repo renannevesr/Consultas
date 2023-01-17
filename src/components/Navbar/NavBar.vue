@@ -1,9 +1,8 @@
 <template>
   <header class="header-container">
-    <h2>Arthur do degrade</h2>
+    <h2>Tuca do degrade</h2>
     <div class="header-container__nav">
       <router-link to="/">Home</router-link>
-      <router-link to="/about">About</router-link>
     </div>
   </header>
 </template>
